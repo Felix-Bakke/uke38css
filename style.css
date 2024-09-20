@@ -1,0 +1,248 @@
+
+
+
+
+body {
+  height: 1950px;
+  background-color: rgb(87, 79, 79); 
+  background-image: linear-gradient(rgb(230, 225, 225), rgba(236, 206, 236, 0.705));
+  }
+
+
+
+#title{
+  background-color: rgb(87, 79, 79); 
+  background-image: linear-gradient(rgb(230, 225, 225), rgba(236, 206, 236, 0.705));
+}
+
+
+
+.fonted {
+  font-family: "Protest Guerrilla", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
+
+
+
+.fit-picture {
+  border-radius: 5%;
+margin-left: 30%;
+width: 185%;
+}
+
+
+#tekst {
+  margin-top: 2%;
+  margin-left: 30%; 
+  background-color: #a0b9c23d;
+  border-radius: 5%;
+  
+  }
+
+
+#tek2 {
+    margin-left: 40%;
+    margin-bottom: 15%; 
+    background-color: #a0b9c23d;
+    border-radius: 5%;
+    width: 100%;
+    font-family: "Protest Guerrilla", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    
+    }
+
+#tak {
+  margin-left:40% ;
+  background-color: #a0b9c23d;
+  border-radius: 5%;
+  width: 100%;
+
+}
+
+
+
+#bilde {
+
+  
+  height: 300px;
+  width: 300px;
+  
+  }
+
+
+#bilde2 {
+margin-left: 20%;
+
+
+}
+
+
+
+
+
+  .flex-container {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background-color: red; 
+    background-image: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255));
+    border-radius: 5%;
+   
+  }
+
+
+
+
+  #flex-container3 > div {
+    color:  hsl(158, 56%, 24%);
+    background-color: #07060611;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  border-radius: 15%;
+  
+  
+  
+  }
+  
+
+.shadow {
+border-radius: 20%;
+
+
+
+}
+
+
+
+
+  
+
+.card-body {
+  height: 200px;
+  background-color: red; 
+  background-image: linear-gradient(rgb(198, 243, 241), rgb(255, 255, 255));
+  border-radius: 5%;
+}
+
+
+
+
+
+
+
+
+#grad1 {
+  color: white;
+  height: 250px;
+  background-color: rgb(255, 255, 255); 
+  background-image: linear-gradient(rgba(0, 0, 0, 0.795), rgba(0, 0, 0, 0.911));
+  border-radius: 0%;
+}
+
+
+
+
+
+
+#links{
+font-family: "Protest Guerrilla", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
+
+#flex-container1 > div {
+  color:  hsl(158, 56%, 24%);
+  background-color: #07060611;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+border-radius: 15%;
+}
+
+#flex-container2 > div {
+ 
+  border-radius: 5%;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+border-radius: 15%;
+}
+
+
+
+
+
+#card1 {
+  width: 100%;
+  border-radius: 5%;
+  margin-left: 48%;
+  }
+
+
+  #card2 {
+    width: 100%;
+    border-radius: 5%;
+    margin-left: 71%;
+    }
+    
+
+#card3 {
+  width: 100%;
+  border-radius: 5%;
+  margin-left: 86%;
+  }
+  
+
+  #card4 {
+  width: 100%;
+  border-radius: 5%;
+  margin-left: 115%;
+  }
+  
+
+  #card5 {
+  width: 100%;
+  border-radius: 5%;
+  margin-left: 118%;
+  }
+  
+
+  #card6 {
+  width: 100%;
+  border-radius: 5%;
+  margin-left: 173%;
+  }
+
+
+.card-body {
+height: 150px;
+}
+
+
+#tekst2{
+margin-left:3%;
+}
+
+
+#btn {
+  margin-top: 30%;
+}
+
+
+#car2 {
+margin-bottom: -15%;
+}
+
+
+
